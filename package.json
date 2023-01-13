@@ -1,0 +1,16 @@
+{
+  "name": "zhulin3141.github.io",
+  "version": "1.0.0",
+  "description": "johnny zhu's blog",
+  "main": "index.js",
+  "repository": "git@github.com:zhulin3141/zhulin3141.github.io.git",
+  "author": "zhulin3141 <zhulin3141@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
